@@ -26,10 +26,18 @@
 	- Jens: https://github.com/jedie/
 
 ## Resources
-- Github project: https://github.com/malemburg/pyddf-spring-sprint-2025
-- Github project: https://github.com/jedie/pyddf-flet-test
+- Flet
+    - [Homepage: Build multi-platform apps in Python powered by Flutter | Flet](https://flet.dev/)
+    - [Roadmap | Flet](https://flet.dev/roadmap/)
+- Sprint
+    - Github project: https://github.com/malemburg/pyddf-spring-sprint-2025
+    - Github project: https://github.com/jedie/pyddf-flet-test
 
 ## Notes
+
+From the homepage:
+
+> Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 
 ### Webview approach
 - Flet seems to generally use the concept of a webview, where the app is running in a server app, which then uses a websocket to connect to the frontend for rendering
