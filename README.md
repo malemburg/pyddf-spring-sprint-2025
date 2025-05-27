@@ -35,7 +35,7 @@
 
 ## Notes
 
-From the homepage:
+From the Flet homepage:
 
 > Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 
